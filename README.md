@@ -1,4 +1,4 @@
-Hi 👋 My name is Iulian Gherman
+Hi 👋 My name is Iulian
 ===============================
 
 Web Developer
